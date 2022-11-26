@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+helpers/commons-downloader
+helpers/download_from_Wikimedia_Commons
+helpers/images
+helpers/Imker_v16.09.13
+helpers/wimgs
+vendor
